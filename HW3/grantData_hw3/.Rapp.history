@@ -1,3 +1,0 @@
-load("/Volumes/My Files/mmulas/Public/Dropbox/UFC/teaching/2019.2/TI0077/assessment/HW/HW3/assignment/TI0077_HW3_assignment/grantData_hw3/grantData_HW3.RData")
-ls()
-q("no")
